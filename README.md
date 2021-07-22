@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](Orange Ebb and Flow Abstract LinkedIn Banner.png "Header")
+[![Header](Orange Ebb and Flow Abstract LinkedIn Banner.png "Header")]
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -27,8 +27,9 @@ My name is Sanya and I am a pre-final year student at Delhi Technological Univer
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanyagoyal2000&repo=RedWings-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-
+<a href="https://github.com/sanyagoyal2000/Sorting-Algorithms-Visualizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanyagoyal2000&repo=Sorting-Algorithms-Visualizer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
