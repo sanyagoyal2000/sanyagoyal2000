@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sanya and I am a pre-final year student at Delhi Technological University,India. You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Sanya and I am a pre-final year student at Delhi Technological University,India. You can find me on [![LinkedIn][3.2]][3].
 
 
 
@@ -34,19 +34,19 @@ My name is Sanya and I am a pre-final year student at Delhi Technological Univer
 
 <!-- icons with padding -->
 
-[1.1]: ![](2.png) (facebook icon with padding)
+
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
 
-[1.2]: ![](2.png) (facebook icon without padding)
+
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[1]: https://www.facebook.com/sanya.goyal.560/
+
 [2]: https://github.com/sanyagoyal2000
 [3]: https://www.linkedin.com/in/sanya-g-046ab811b/
 
