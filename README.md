@@ -52,6 +52,8 @@ My name is Sanya Goyal and I am a final year student at Delhi Technological Univ
 <a href="https://github.com/sanyagoyal2000/Sorting-Algorithms-Visualizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanyagoyal2000&repo=Sorting-Algorithms-Visualizer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sanyagoyal2000&theme=dark)](https://github.com/sanyagoyal2000/leetcode-stats)
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
