@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sanya and I am a pre-final year student at Delhi Technological University,India. You can find me on [![LinkedIn][3.2]][3].
+My name is Sanya Goyal and I am a final year student at Delhi Technological University,India. You can find me on [![LinkedIn][3.2]][3].
 
 
 
